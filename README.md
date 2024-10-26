@@ -1,6 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=Vaishnavi-Raykar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Authentication Project<br>🌱 I’m currently learning NextJS<br>💬 Ask me about React.
-[![](https://visitcount.itsvg.in/api?id=Vaishnavi-Raykar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnaviraykar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/VaishnaviR1883) 
